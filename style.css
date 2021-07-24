@@ -12,7 +12,8 @@ h1 {
     color:black;
     width: 300;
     padding: 20px;
-    border: 25px;
+    border: 15px;
+	border-radius: 25px;
     margin: 0 auto;
 }
 
